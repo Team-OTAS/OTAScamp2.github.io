@@ -1,0 +1,31 @@
+.cb
+{
+  border: solid black;
+  width : 250px;
+  height: 40px;
+  text-align: center;
+  background-color: orange;
+}
+.olr
+{
+  border: solid black;
+  width: 250px;
+  height: 40px;
+  background-color: #50C7C7;
+  text-align: center;
+}
+.mc
+{
+  border: solid black;
+  width: 250px;
+  height: 60px;
+  background-color:#B6D64D;
+  text-align: center;
+}
+.head
+{
+  border: none;
+  background-color: grey;
+  height : auto;
+  
+}
